@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/countries-world.iml" filepath="$PROJECT_DIR$/.idea/modules/countries-world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/countries-world_main.iml" filepath="$PROJECT_DIR$/.idea/modules/countries-world_main.iml" group="countries-world" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/countries-world_test.iml" filepath="$PROJECT_DIR$/.idea/modules/countries-world_test.iml" group="countries-world" />
+    </modules>
+  </component>
+</project>
